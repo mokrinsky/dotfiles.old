@@ -1,0 +1,1 @@
+shared/apps/secure.nix filter=git-crypt diff=git-crypt
