@@ -1,4 +1,8 @@
-# my current dotfiles
+# DEPRECATED
+
+This flake is not gonna be updated anymore, I kinda lost interest in refactoring it the way I wanted. Feel free to check [dotfiles](https://github.com/mokrinsky/dotfiles) for the one I use right now.
+
+### my current dotfiles
 
 This is my current system configuration. For now it's only compatible with macOS, but I'm going to port it to NixOS and probably any other linux with Nix Package Manager installed.
 
